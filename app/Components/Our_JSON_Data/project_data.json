@@ -1,0 +1,26 @@
+[
+  {
+    "image": "/glimpse_img4.1.png",
+    "title": "Pizzachio",
+    "webLink": "https://pizzachio.vercel.app/",
+    "description": "Pizzachio is a responsive frontend website created during my early learning phase. The project focuses on clean structure, visual consistency, and layout design using pure HTML and CSS, helping me strengthen my frontend fundamentals."
+  },
+  {
+    "image": "/glimpse_img3.png",
+    "title": "Spotify Clone",
+    "webLink": "https://dreamy-sprite-a758f5.netlify.app/",
+    "description": "This Spotify-inspired web application replicates the core experience of a music player. It includes interactive controls such as play, pause, and track navigation, implemented using JavaScript to demonstrate practical frontend logic and UI behavior."
+  },
+  {
+    "image": "/glimpse_img2.png",
+    "title": "Authentication React Application",
+    "webLink": "https://auth-react-app-dun.vercel.app/",
+    "description": "A React-based application designed to demonstrate real-world authentication flows. The project highlights structured component design, form handling, and communication with a backend service using Express.js."
+  },
+  {
+    "image": "/glimpse_img1.png",
+    "title": "College Event Website",
+    "webLink": "https://college-event-website-seven.vercel.app/",
+    "description": "A college event website developed using Next.js, focused on creating a clean and structured interface for presenting events. The project includes interactive features and early-stage backend integration, reflecting my ongoing learning and exploration of modern full-stack development concepts."
+  }
+]

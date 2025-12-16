@@ -1,26 +1,54 @@
 @import "tailwindcss";
-
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+:root
+{
+  background-color: black;
+  color: white;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  scroll-behavior: smooth;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+.text-changer
+{
+  height: 62px;
+  padding: 10px;
+  border-radius: 8px;
+  display: flex;
+  font-weight: 500;
+  font-size: 25px;
+  box-sizing: content-box;
 }
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
+.roles-Container
+{
+  overflow: hidden;
+  position:relative;
+}
+.role
+{
+  display: block;
+  height: 100%;
+  padding-left: 4px;
+  animation: role-change 8s ease-in-out infinite; /* Added 'infinite' */
+}
+@keyframes role-change
+{
+  0%, 20%
+  {
+    transform: translateY(0%);
   }
-}
-
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  25%, 45%
+  {
+    transform: translateY(-100%);
+  }
+  50%, 70%
+  {
+    transform: translateY(-200%);
+  }
+  75%, 95%
+  {
+    transform: translateY(-300%);
+  }
+  100%
+  {
+    transform: translateY(-400%);
+  }
 }

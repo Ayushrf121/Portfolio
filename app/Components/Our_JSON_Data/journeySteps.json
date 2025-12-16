@@ -1,0 +1,22 @@
+[
+    {
+        "title": "Started with C Programming",
+        "description": "Began my journey as a developer learning the fundamentals of programming through C language.",
+        "year": "Foundation"
+    },
+    {
+        "title": "Built Strong Base with Java",
+        "description": "Strengthened my programming skills with Java, diving deep into object-oriented programming, solving various problem that can help to understand concepts and build a base of the problem solving.",
+        "year": "Intermediate"
+    },
+    {
+        "title": "MERN Stack Development",
+        "description": "Transitioned to full-stack web development using MongoDB, Express.js, React, and Node.js, creating dynamic and scalable web applications.",
+        "year": "Advanced"
+    },
+    {
+        "title": "Currently Working with Next.js",
+        "description": "Mastering modern web development with Next.js, building high-performance, SEO-friendly applications with server-side rendering and static generation.",
+        "year": "Present"
+    }
+]
