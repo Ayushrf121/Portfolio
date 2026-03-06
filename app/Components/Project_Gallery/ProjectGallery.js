@@ -26,11 +26,11 @@ export default function ProjectGallery() {
           <div className="grid md:grid-cols-2 gap-6 sm:gap-8">
             
             {/* Project 1 */}
-            <ImageDiv data-aos="zoom-in" data-aos-duration="2000"  src='/glimpse_img1.png' alt='College_event_image'/>
+            <ImageDiv data-aos="zoom-in" data-aos-duration="2000"  src='/Traversal.png' alt='College_event_image'/>
             
             {/* Project 2 */}
             
-            <ImageDiv data-aos="zoom-in" data-aos-duration="2000"  src='/glimpse_img2.png' alt='Authentication_image'/>
+            <ImageDiv data-aos="zoom-in" data-aos-duration="2000"  src='/glimpse_img1.png' alt='Authentication_image'/>
 
             {/* Project 3 */}
             <ImageDiv data-aos="zoom-in" data-aos-duration="2000"  src='/glimpse_img3.png' alt='Spotify_image'/>
