@@ -1,5 +1,11 @@
 [
   {
+    "image":"/Traversal.png",
+    "title":"Traversal",
+    "webLink":"https://www.traversalhub.in/",
+    "description":"TraversalHub is the official website for the Traversal technical club, designed to present the club’s mission, events, and team in a modern and structured way. The project focuses on clean UI design, organized content sections, and responsive layout to showcase technical workshops, community updates, and faculty mentorship within the university tech community."
+  },
+  {
     "image": "/glimpse_img4.1.png",
     "title": "Pizzachio",
     "webLink": "https://pizzachio.vercel.app/",
