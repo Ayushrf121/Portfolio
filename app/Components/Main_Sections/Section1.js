@@ -44,7 +44,7 @@ export default function Section1() {
               <div  className="w-full h-full rounded-full overflow-hidden">
                
                 <img
-                  src="/Ayush_pic1.png"
+                  src="/Ayush_Updated_img.png"
                   alt="Ayush"
                   className="w-full h-full"
                 />
