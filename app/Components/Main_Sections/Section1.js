@@ -240,7 +240,7 @@ export default function Section1() {
 
         {/* ── Right Content – Profile Image ── */}
         <motion.div
-          className="flex justify-center md:justify-end"
+          className="flex justify-center md:justify-end mt-20"
           initial="hidden"
           animate="visible"
           variants={zoomIn}
