@@ -2,6 +2,7 @@
 
 import React, { useEffect, useRef, useState } from 'react'
 import Link from 'next/link'
+import Image from 'next/image'
 import { motion, useMotionValue, useSpring } from 'framer-motion'
 
 // ── Typewriter hook ──
@@ -270,7 +271,7 @@ export default function Section1() {
             {/* Image with magnetic spring */}
             <motion.div
               style={{ x: springX, y: springY }}
-              className="relative w-64 h-64 sm:w-72 sm:h-72 md:w-96 md:h-96 rounded-full bg-gradient-to-br from-orange-500 to-orange-600 p-[3px] cursor-pointer"
+              className="relative w-64 h-64 sm:w-72 sm:h-72 md:w-96 md:h-96 rounded-full p-[3px] cursor-pointer"
               whileHover={{ scale: 1.04 }}
               transition={{ type: 'spring', stiffness: 200, damping: 20 }}
             >
@@ -284,17 +285,17 @@ export default function Section1() {
                 animate={{ rotate: 360 }}
                 transition={{ duration: 4, repeat: Infinity, ease: 'linear' }}
               />
-              <div className="relative w-64 h-64 sm:w-72 sm:h-72 md:w-96 md:h-96 rounded-full bg-linear-to-br from-orange-500 to-orange-600 p-1 hover:scale-105 transition-transform duration-500">
-              <div  className="w-full h-full rounded-full overflow-hidden">
-               
-                <img
-                  src="/Ayush_Updated_img.png"
-                  alt="Ayush"
-                  className="w-full h-full"
-                />
-                
+              <div className="relative w-64 h-64 sm:w-72 sm:h-72 md:w-96 md:h-96 rounded-full bg-black p-1 hover:scale-105 transition-transform duration-500">
+                <div className="w-full h-full rounded-full overflow-hidden">
+                  <Image
+                    src="/Ayush_Updated_img.png"
+                    alt="Ayush"
+                    width={100}
+                    height={100}
+                    className="w-full h-full"
+                  />
+                </div>
               </div>
-            </div>
             </motion.div>
 
             {/* Badge – Available for work */}
