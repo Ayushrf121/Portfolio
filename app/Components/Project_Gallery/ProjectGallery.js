@@ -30,13 +30,14 @@ export default function ProjectGallery() {
             
             {/* Project 2 */}
             
-            <ImageDiv data-aos="zoom-in" data-aos-duration="2000"  src='/glimpse_img1.png' alt='Authentication_image'/>
+            <ImageDiv data-aos="zoom-in" data-aos-duration="2000"  src='/sehatSathi.png' alt='medicalChecker_image'/>
 
             {/* Project 3 */}
-            <ImageDiv data-aos="zoom-in" data-aos-duration="2000"  src='/glimpse_img3.png' alt='Spotify_image'/>
+
+            <ImageDiv data-aos="zoom-in" data-aos-duration="2000"  src='/glimpse_img4.1.png' alt='Pizzachio_image'/>
 
             {/* Project 4 */}
-            <ImageDiv data-aos="zoom-in" data-aos-duration="2000"  src='/glimpse_img4.1.png' alt='Pizzachio_image'/>
+            <ImageDiv data-aos="zoom-in" data-aos-duration="2000"  src='/glimpse_img3.png' alt='Spotify_image'/>
 
           </div>
 

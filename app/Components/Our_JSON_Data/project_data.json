@@ -6,6 +6,12 @@
     "description":"TraversalHub is the official website for the Traversal technical club, designed to present the club’s mission, events, and team in a modern and structured way. The project focuses on clean UI design, organized content sections, and responsive layout to showcase technical workshops, community updates, and faculty mentorship within the university tech community."
   },
   {
+    "image":"/sehatSathi.png",
+    "title":"SehatSathi",
+    "webLink":"https://sehatsathi-omega.vercel.app/",
+    "description": "A React-based project developed during FOSS Hack 2026 that leverages Gemini and Sarvam APIs to analyze medical reports, extract key insights, and present them in a user-friendly format. It simplifies complex medical data through intelligent summaries and natural language processing."
+  },
+  {
     "image": "/glimpse_img4.1.png",
     "title": "Pizzachio",
     "webLink": "https://pizzachio.vercel.app/",

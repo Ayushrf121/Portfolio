@@ -1,22 +1,27 @@
 [
-    {
-        "title": "Started with C Programming",
-        "description": "Began my journey as a developer learning the fundamentals of programming through C language.",
-        "year": "Foundation"
-    },
-    {
-        "title": "Built Strong Base with Java",
-        "description": "Strengthened my programming skills with Java, diving deep into object-oriented programming, solving various problem that can help to understand concepts and build a base of the problem solving.",
-        "year": "Intermediate"
-    },
-    {
-        "title": "MERN Stack Development",
-        "description": "Transitioned to full-stack web development using MongoDB, Express.js, React, and Node.js, creating dynamic and scalable web applications.",
-        "year": "Advanced"
-    },
-    {
-        "title": "Currently Working with Next.js",
-        "description": "Mastering modern web development with Next.js, building high-performance, SEO-friendly applications with server-side rendering and static generation.",
-        "year": "Present"
-    }
+  {
+    "title": "Started with C Programming",
+    "description": "Began my journey in programming by learning C, building a strong foundation in logic building, memory management, and core programming concepts.",
+    "year": "Foundation"
+  },
+  {
+    "title": "Built Strong Base with Java",
+    "description": "Strengthened my problem-solving skills using Java, focusing on object-oriented programming, data structures, and solving real-world coding challenges.",
+    "year": "Intermediate"
+  },
+  {
+    "title": "MERN Stack Development",
+    "description": "Transitioned into full-stack development using MongoDB, Express.js, React, and Node.js, building dynamic and scalable web applications.",
+    "year": "Advanced"
+  },
+  {
+    "title": "Worked with Next.js",
+    "description": "Gained hands-on experience with Next.js, building high-performance and SEO-friendly applications using server-side rendering and static generation.",
+    "year": "Specialization"
+  },
+  {
+    "title": "Building Real-World Projects",
+    "description": "Currently working on real-world projects and development tasks, applying my full-stack skills to create efficient, scalable, and production-ready applications.",
+    "year": "Present"
+  }
 ]
