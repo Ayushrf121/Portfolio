@@ -56,7 +56,7 @@ export default function Navbar() {
 
           {/* Download Resume Button - Desktop */}
           <a
-            href="/Ayush_Updated_Resume.pdf"
+            href="/AyushResume.pdf"
             download="Ayush_Updated_Resume.pdf"
             data-aos="fade-down-right"
             data-aos-duration="1500"
