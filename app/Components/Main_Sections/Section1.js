@@ -153,7 +153,7 @@ export default function Section1() {
 
           {/* Tech badges */}
           <motion.div variants={fadeUp} className="flex flex-wrap gap-2">
-            {['React', 'Next.js', 'Node.js', 'TypeScript'].map((tech) => (
+            {['React', 'Next.js', 'Node.js', 'JavaScript'].map((tech) => (
               <motion.span
                 key={tech}
                 className="text-xs px-3 py-1 rounded-full border border-orange-500/30 text-orange-400 bg-orange-500/5 cursor-default"
