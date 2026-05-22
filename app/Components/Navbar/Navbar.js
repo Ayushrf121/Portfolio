@@ -57,7 +57,7 @@ export default function Navbar() {
           {/* Download Resume Button - Desktop */}
           <a
             href="/AyushResume.pdf"
-            download="Ayush_Updated_Resume.pdf"
+            download="AyushResume.pdf"
             data-aos="fade-down-right"
             data-aos-duration="1500"
             className="hidden md:flex items-center gap-2 bg-orange-500 hover:bg-orange-600 text-white px-6 py-3 rounded-full transition-all duration-300 hover:scale-105"
@@ -118,8 +118,8 @@ export default function Navbar() {
             </a>
             <Border />
             <a
-              href="/Ayush_Updated_Resume.pdf"
-              download="Ayush_Updated_Resume.pdf"
+              href="/AyushResume.pdf"
+              download="AyushResume.pdf"
               data-aos="zoom-in"
               data-aos-duration="3000"
               className="flex items-center gap-2 bg-orange-500 hover:bg-orange-600 text-white px-6 sm:px-8 py-3 sm:py-4 rounded-full transition-all duration-300 text-lg sm:text-xl"
