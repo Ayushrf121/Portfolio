@@ -1,10 +1,16 @@
 [
   {
-    "image":"/Traversal.png",
-    "title":"Traversal",
-    "webLink":"https://www.traversalhub.in/",
-    "description":"TraversalHub is the official website for the Traversal technical club, designed to present the club’s mission, events, and team in a modern and structured way. The project focuses on clean UI design, organized content sections, and responsive layout to showcase technical workshops, community updates, and faculty mentorship within the university tech community."
+  "image":"/Traversal.png",
+  "title":"Traversal",
+  "webLink":"https://www.traversalhub.in/",
+  "description":"TraversalHub is the official website for the Traversal technical club, designed to present the club’s mission, events, and team in a modern and structured way. The project focuses on clean UI design, organized content sections, and responsive layout to showcase technical workshops, community updates, and faculty mentorship within the university tech community."
   },
+  {
+    "image":"/Espresso.png",
+    "title":"Espresso",
+    "webLink":"https://esspresso-alpha.vercel.app/",
+    "description":"Espresso is a NextJs based web application designed for the startup to showcase their work, goods and courage of they are grown up from the beginning of the career."
+    },
   {
     "image":"/sehatSathi.png",
     "title":"SehatSathi",
