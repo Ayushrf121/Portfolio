@@ -37,7 +37,7 @@ export default function ProjectGallery() {
             <ImageDiv data-aos="zoom-in" data-aos-duration="2000"  src='/Espresso.png' alt='Spotify_image'/>
 
             {/* Project 4 */}
-            <ImageDiv data-aos="zoom-in" data-aos-duration="2000"  src='/glimpse_img4.1.png' alt='Pizzachio_image'/>
+            <ImageDiv data-aos="zoom-in" data-aos-duration="2000"  src='/luxCustoms.png' alt='luxCustoms'/>
 
           </div>
 

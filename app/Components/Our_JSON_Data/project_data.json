@@ -1,5 +1,11 @@
 [
   {
+  "image":"/luxCustoms.png",
+  "title":"LuxCustoms",
+  "webLink":"https://luxcustoms.au/",
+  "description":"LuxCustoms is a premium, high-performance web platform built using Next.js, React, Tailwind CSS, and Framer Motion. Designed for an elite automotive tinting and detailing studio in Endeavour Hills, Victoria, the site offers a sleek, dark-themed user experience featuring interactive bento-grid service showcases, dynamic Google reviews carousels, and responsive mobile-first navigation."
+  },
+  {
   "image":"/Traversal.png",
   "title":"Traversal",
   "webLink":"https://www.traversalhub.in/",
